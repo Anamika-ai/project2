@@ -40,6 +40,6 @@ This project is created for learning frontend design and layout techniques using
 
 ## 📌 Live Demo
 
-👉 [Click here to view live](https://your-live-link.netlify.app)  
+👉 [Click here to view live](https://anamika-ai.github.io/project2/)  
 
 
