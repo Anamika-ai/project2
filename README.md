@@ -5,8 +5,8 @@ This project is created for learning frontend design and layout techniques using
 
 ## 📸 Preview
 
-![Netflix Clone Screenshot](assets/images/screenshot.png)  
-*(You can update this path to your actual screenshot)*
+![image alt](ss1.png)  
+
 
 ---
 
