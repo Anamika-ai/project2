@@ -6,7 +6,7 @@ This project is created for learning frontend design and layout techniques using
 ## 📸 Preview
 
 ![image alt](ss1.png)  
-
+![image alt](ss2.png)
 
 ---
 
