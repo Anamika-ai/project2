@@ -8,7 +8,7 @@ This project is created for learning frontend design and layout techniques using
 ![image alt](ss1.png)  
 ![image alt](ss2.png)
 ![image alt](ss3.png)
----
+![image alt](ss4.png)
 
 ## 🛠️ Tech Stack
 
