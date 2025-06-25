@@ -40,6 +40,6 @@ This project is created for learning frontend design and layout techniques using
 
 ## 📌 Live Demo
 
-👉 [Click here to view live](https://project2-liart-seven.vercel.app/)  
+👉 [Click here to view live](https://project2-sepia-eight.vercel.app/)  
 
 
